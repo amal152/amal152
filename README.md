@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amal Krishna
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning web designing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
