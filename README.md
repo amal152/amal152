@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning web designing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email:amalk949786@gmail.com
 
 <!---
 amal152/amal152 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
